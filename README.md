@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amch-med23
+- 👀 I’m interested in software.
+- 🌱 I’m currently learning software engineering at Holberton school and Alx Africa.
+- 💞️ I’m looking to collaborate on some interesrting open source projects.
+- 📫 You can reach me via my social media links.
