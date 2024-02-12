@@ -1,5 +1,4 @@
-� Hello there! I'm Mohamed Amouch, a Software engineering student @ Holbertoon school and ALX africa. �
-
+ Hello there! I'm Mohamed Amouch, a Software engineering student @ Holbertoon school and ALX africa. 
 
 
 
