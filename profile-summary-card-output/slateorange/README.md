@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/amch-med23/amch-med23/master/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
