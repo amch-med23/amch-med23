@@ -1,4 +1,4 @@
-👋 Hello there! I'm Mohamed Amouch, a Software engineering student @ Holbertoon school and ALX africa. 
+👋 Hello there! I'm Mohamed Amouch, a recentely graduated software engineer. I'm Eager to collaborate on Open Source projects.
 
 
 
